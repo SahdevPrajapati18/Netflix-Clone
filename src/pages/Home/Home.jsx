@@ -14,7 +14,7 @@ const Home = () => {
     <div className='home'> 
       <Navbar/>
       <div className="hero">
-        <img src={hero_banner} alt="" className='banner-img'/>
+        <img src={kalki-2898-ad-2024-3840x2160-17165} alt="" className='banner-img'/>
         <div className="hero-caption">
             <img src={hero_title} alt="" className='caption-img'/>
             <p>Discovering his ties to a secret ancient order, a young man living in modern Istanbul embarks on a quest to save the city from an immortal enemy.</p>
