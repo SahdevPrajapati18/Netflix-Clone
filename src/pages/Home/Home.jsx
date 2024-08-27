@@ -17,7 +17,7 @@ const Home = () => {
         <img src={kalki-2898-ad-2024-3840x2160-17165} alt="" className='banner-img'/>
         <div className="hero-caption">
             <img src={hero_title} alt="" className='caption-img'/>
-            <p>Discovering his ties to a secret ancient order, a young man living in modern Istanbul embarks on a quest to save the city from an immortal enemy.</p>
+            <p>The future of those in the dystopian city of Kasi is altered when the destined arrival of Lord Vishnu's final avatar launches a war against darkness.</p>
             <div className="hero-btns">
                 <button className="btn">
                     <img  src={play_icon} alt="" />
